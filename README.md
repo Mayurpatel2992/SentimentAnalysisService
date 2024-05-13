@@ -1,7 +1,5 @@
 Sentiment Analysis Microservice
 
-This project is a Flask-based microservice designed to analyze sentiment of comments fetched from the Feddit API. It evaluates whether comments are positive, negative, or neutral and provides a RESTful API to interact with the data.
-
 Features
 
 - Fetch the latest 25 comments from a specified subfeddit on Feddit.
